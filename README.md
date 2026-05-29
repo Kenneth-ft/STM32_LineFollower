@@ -1,5 +1,7 @@
 # STM32 Line Follower Robot 🏎️
 
+Project Completed Summer 2025
+
 This repository contains the firmware for an autonomous line-following robot built around the STM32 microcontroller (STM32F4 series). 
 
 The system utilizes a 5-channel IR sensor array to detect the line, leveraging hardware interrupts (EXTI) for immediate state updates. The drive system uses a dual DC motor setup, regulated by a custom Proportional-Derivative (PD) control loop to maintain high-speed tracking and dynamic recovery when the line is lost.
