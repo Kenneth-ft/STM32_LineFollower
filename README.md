@@ -1,6 +1,8 @@
-# STM32 Line Follower Robot 🏎️
-
+# Video
 Project Completed Summer 2025
+https://photos.app.goo.gl/9tPWRtBNupr3vd5LA
+
+# STM32 Line Follower Robot 🏎️
 
 This repository contains the firmware for an autonomous line-following robot built around the STM32 microcontroller (STM32F4 series). 
 
