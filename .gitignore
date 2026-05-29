@@ -1,0 +1,22 @@
+# Build output directories
+Debug/
+Release/
+build/
+
+# Compiled object files and binaries
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+
+# IDE metadata and local user settings
+.metadata/
+*.launch
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
